@@ -1,7 +1,7 @@
 #-----------------------------------------------------------------------------
 # Name:        Prutha Patil
 # Purpose:  	Write a Python program that asks the user for the current 
-#               temperature and suggests whether they should wear a jacket,
+#               02_temperature and suggests whether they should wear a jacket,
 #               short-sleeves, or stay indoors.
 #
 # Day:         25-Feb-2025
