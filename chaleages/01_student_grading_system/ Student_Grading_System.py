@@ -1,5 +1,5 @@
 #-----------------------------------------------------------------------------
-# Name:        Prutha Patil
+# Name:        Prutha
 # Purpose:     progam to tell what score thsy got bassed on there  "%" 		
 #
 # Created:     24-Feb-2025
