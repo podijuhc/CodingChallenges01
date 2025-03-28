@@ -20,3 +20,6 @@ Access the third item in the list and print it.
 ```
 
 **Pseudocode:**
+1. grocery_list = ['apples', 'bananas', 'carrots', 'milk', 'bread']. 
+2. Change 'bananas' to 'grapes'. 
+3. Print the list.

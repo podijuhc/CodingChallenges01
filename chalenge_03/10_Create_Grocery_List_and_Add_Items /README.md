@@ -15,3 +15,7 @@ Print the updated list.
 ```
 
 **Pseudocode:**
+
+1. Create a list grocery_list = 'apples', 'bread', 'milk', and 'eggs'. 
+2. Add two more items to the list: 'cheese' and 'tomatoes'. 
+3. Print the list.

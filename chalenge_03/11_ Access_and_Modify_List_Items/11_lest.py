@@ -9,7 +9,7 @@
 grocery_list = ['apples', 'bananas', 'carrots', 'milk', 'bread']
 
 grocery_list[1] = 'grapes'
-# Print the updated list
+# Print the list
 print(grocery_list)
 
 print(grocery_list[2])

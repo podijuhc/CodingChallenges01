@@ -19,3 +19,8 @@ Afterward, remove 'clean room' from the list and print the final list.
 ```
 
 **Pseudocode:**
+1. Create a list todo_list = ['write email', 'finish homework', 'call mom', 'clean room']. 
+2. Remove 'call mom'.
+3. Print the updated list. 
+4. remove 'clean room'.
+5. print the final list.

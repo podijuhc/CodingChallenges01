@@ -17,4 +17,7 @@ Print the length of the colors list.
 
 **Pseudocode:**
 
-1.make a variable colors = ['red', 'blue', 'green', 'yellow', 'purple'] 
+1. Make a variable colors = ['red', 'blue', 'green', 'yellow', 'purple'] 
+2. sliced color which is on the 2 and 4 word of a lest 
+3. print selected color 
+4. rent how long the least is 
