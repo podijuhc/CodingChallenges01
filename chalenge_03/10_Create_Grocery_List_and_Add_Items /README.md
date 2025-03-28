@@ -7,7 +7,7 @@ Create a list called grocery_list with the following items: 'apples', 'bread', '
 
 Add two more items to the list: 'cheese' and 'tomatoes'.
 
-Print the updated list.
+Print the updated list
 
 **Example:**  
 ```

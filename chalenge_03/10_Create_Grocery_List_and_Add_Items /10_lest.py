@@ -5,7 +5,7 @@
 # Created:     4-Mar-2025
 #-----------------------------------------------------------------------------
 
-list = ['apples', 'bread', 'milk', 'eggs']  #list
+list = ['apples', 'bread', 'milk', 'eggs']  #list.
 
 list.append('cheese')#adding to the lest
 list.append('tomatoes')

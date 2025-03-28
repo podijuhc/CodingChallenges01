@@ -10,7 +10,7 @@ Change 'bananas' to 'grapes'.
 
 Print the updated list.
 
-Access the third item in the list and print it.
+Access the third item in the list and print it
 
 **Example:**  
 ```
